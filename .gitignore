@@ -1,0 +1,8 @@
+#Node modules will get recreated locally
+node_modules
+
+#OS files
+.DS_Store
+
+#Package lock
+package-lock.json
